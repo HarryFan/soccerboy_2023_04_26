@@ -4,7 +4,7 @@
     
 
 ```
-javaCopy code<%@ page language="java" %>
+<%@ page language="java" %>
 <%@ page import="java.util.List" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.Map" %>
@@ -17,7 +17,7 @@ javaCopy code<%@ page language="java" %>
     
 
 ```
-javaCopy codeList<User> userList = new ArrayList<>();
+List<User> userList = new ArrayList<>();
 Map<String, Role> roleMap = new HashMap<>();
 ```
 
